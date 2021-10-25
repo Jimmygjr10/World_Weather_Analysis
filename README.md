@@ -9,3 +9,4 @@ The heat map included:
 ### Country
 ### Weather
 ### Nearest Hotel
+![WeatherPy_vacation_map](https://user-images.githubusercontent.com/83085800/138620155-cd7feb15-f705-45a0-a683-d8684dfc6c63.png)
